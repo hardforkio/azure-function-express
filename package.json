@@ -42,10 +42,6 @@
     "test": "jest",
     "validate": "npm run style && npm run coverage"
   },
-  "engines": {
-    "node": ">=6.11.2 <=12",
-    "npm": ">=6"
-  },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
     "@babel/core": "^7.11.6",
